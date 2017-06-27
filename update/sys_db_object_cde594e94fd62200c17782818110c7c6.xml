@@ -17,7 +17,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="User" name="sys_user">ea1383114f122200c17782818110c7b6</super_class>
+        <super_class display_value="User" name="sys_user">c61f9323f5213200a21cc3267c0bd5ba</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-10-05 23:39:39</sys_created_on>

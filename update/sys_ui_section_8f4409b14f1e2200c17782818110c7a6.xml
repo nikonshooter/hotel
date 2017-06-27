@@ -9,7 +9,7 @@
             <sys_id>074409b14f1e2200c17782818110c7a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="6f2307114f122200c17782818110c77e">8f4409b14f1e2200c17782818110c7a6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="1b2f1723f5213200a21cc3267c0bd580">8f4409b14f1e2200c17782818110c7a6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-10-06 21:40:35</sys_updated_on>
             <sys_user/>
@@ -23,7 +23,7 @@
             <sys_id>874409b14f1e2200c17782818110c7a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="6f2307114f122200c17782818110c77e">8f4409b14f1e2200c17782818110c7a6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="1b2f1723f5213200a21cc3267c0bd580">8f4409b14f1e2200c17782818110c7a6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-10-06 21:40:35</sys_updated_on>
             <sys_user/>
@@ -37,7 +37,7 @@
             <sys_id>0b4409b14f1e2200c17782818110c7a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="6f2307114f122200c17782818110c77e">8f4409b14f1e2200c17782818110c7a6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="1b2f1723f5213200a21cc3267c0bd580">8f4409b14f1e2200c17782818110c7a6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-10-06 21:40:35</sys_updated_on>
             <sys_user/>
@@ -51,7 +51,7 @@
             <sys_id>8b4409b14f1e2200c17782818110c7a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="6f2307114f122200c17782818110c77e">8f4409b14f1e2200c17782818110c7a6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="1b2f1723f5213200a21cc3267c0bd580">8f4409b14f1e2200c17782818110c7a6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-10-06 21:40:35</sys_updated_on>
             <sys_user/>
@@ -65,7 +65,7 @@
             <sys_id>0f4409b14f1e2200c17782818110c7a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="6f2307114f122200c17782818110c77e">8f4409b14f1e2200c17782818110c7a6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="1b2f1723f5213200a21cc3267c0bd580">8f4409b14f1e2200c17782818110c7a6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-10-06 21:40:35</sys_updated_on>
             <sys_user/>
@@ -79,7 +79,7 @@
             <sys_id>8f4409b14f1e2200c17782818110c7a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="6f2307114f122200c17782818110c77e">8f4409b14f1e2200c17782818110c7a6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_hotel_guest" sys_domain="global" view="1b2f1723f5213200a21cc3267c0bd580">8f4409b14f1e2200c17782818110c7a6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-10-06 21:40:35</sys_updated_on>
             <sys_user/>
@@ -93,7 +93,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2016-10-06 21:40:35</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>8f4409b14f1e2200c17782818110c7a6</sys_id>
@@ -109,7 +109,7 @@
             <sys_updated_on>2016-10-06 21:40:35</sys_updated_on>
             <sys_user/>
             <title>true</title>
-            <view display_value="Reference List" name="sys_ref_list">6f2307114f122200c17782818110c77e</view>
+            <view display_value="Reference List" name="sys_ref_list">1b2f1723f5213200a21cc3267c0bd580</view>
             <view_name>sys_ref_list</view_name>
         </sys_ui_section>
     </sys_ui_section>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <link_element/>
+        <name>cmtemplate</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>My Test KB Template</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-14 14:54:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>287c4c224f133200a83444b18110c7c2</sys_id>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_name>cmtemplate</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sys_template_287c4c224f133200a83444b18110c7c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-20 10:31:40</sys_updated_on>
+        <table>kb_knowledge</table>
+        <template>text=&lt;head&gt;&#13;
+&lt;link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet"&gt;&#13;
+&lt;/head&gt;&#13;
+&lt;!--HEADER AND LOGO--&gt;&#13;
+&#13;
+&lt;div id="headerContent" style="display:inline-block;"&gt;&#13;
+	&lt;img style="position: relative; top: 0; left: 0; padding: 15px 15px 0px 15px;" title="" src="BU_Logo.jpg" alt="" width="100" height="100" border="0" hspace="0" vspace="0" /&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;div id="headerContent" style="display:inline-block; float: right;"&gt;&#13;
+	&lt;p style="font-family: 'Bitter', serif; position: relative; top: 0; right: 0; "&gt;&lt;font size="5"&gt; For assistance call IT Services - (01202 9) 65515&lt;/font&gt; &lt;br /&gt; &lt;font size="5"&gt;For further AV User Guides please visit - &lt;a href="http://avi.bmth.ac.uk/"&gt;avi.bmth.ac.uk&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;	&#13;
+&lt;/div&gt;&#13;
+&#13;
+&lt;!--ROOM NAME/NUMBER--&gt;&#13;
+&#13;
+&lt;p style="font-family: 'Bitter', serif; font-weight: bold; font-size: 43px;" align="center"&gt;ROOM NAME/NUMBER&lt;/p&gt;&#13;
+&#13;
+&#13;
+&lt;!--ROOM INFORMATION--&gt;&#13;
+&lt;p style="font-family: 'PT Sans', serif; font-weight: bold; color: #ffc000; font-size: 38px; padding: 0px 6% 0px 0px;" align="center"&gt;&lt;img style="padding: 0px 0px 0px 4%;" title="" src="Information.png" alt="" width="50" height="50" align="left" border="0" hspace="0" vspace="0" /&gt;Room Information&lt;/p&gt;&#13;
+&lt;p style="font-family: 'PT Sans', serif; font-size: 28px; margin-left:4%; margin-right:4%; text-align: justify;"&gt;&lt;!--ANY OTHER CONTENT--&gt;&lt;/p&gt;&#13;
+	&lt;ul style="font-family: 'PT Sans', serif; font-size: 28px; margin-left:4%; margin-right:4%; text-align: justify;"&gt;&#13;
+		&lt;li&gt;&lt;font style="font-weight: bold;"&gt;Room Type: &lt;/font&gt;ROOM TYPE&lt;/li&gt;&#13;
+		&lt;li&gt;&lt;font style="font-weight: bold;"&gt;Campus: &lt;/font&gt;CAMPUS&lt;/li&gt;&#13;
+		&lt;li&gt;&lt;font style="font-weight: bold;"&gt;Building: &lt;/font&gt;BUILDING&lt;/li&gt;&#13;
+		&lt;li&gt;&lt;font style="font-weight: bold;"&gt;Capacity: &lt;/font&gt;CAPACITY&lt;/li&gt;&#13;
+	&lt;/ul&gt;&#13;
+&lt;hr style="border: 2px solid #ffc000;" width="93%" /&gt;&#13;
+&#13;
+&#13;
+&lt;!--ROOM CONTENTS--&gt;&#13;
+&lt;p style="font-family: 'PT Sans', serif; font-weight: bold; color: #538135; font-size: 38px; padding: 0px 6% 0px 0px;" align="center"&gt;&lt;img style="padding: 0px 0px 0px 4%;" title="" src="Contents.png" alt="" width="50" height="50" align="left" border="0" hspace="0" vspace="0" /&gt;Room Contents&lt;/p&gt;	&#13;
+&#13;
+&lt;div id="contentBox" style="margin:0px auto; width:100%;"&gt;&#13;
+    &lt;div id="column1" style="float:left; width:33%; text-align:center;"&gt;&#13;
+	&#13;
+	&lt;font style="font-family: 'PT Sans', serif; font-weight: bold; color: #6c7373; font-size: 30px; "&gt;INPUTS&lt;/font&gt;&#13;
+	&lt;hr style="border: 1px solid #2E86C1;" width="75%" /&gt;&#13;
+		&lt;div id="column1CONTENT" style="float:left; width:100%; text-align:left;  margin-left:10%;"&gt;&#13;
+			&lt;ul&gt;&#13;
+				&lt;li style="color:#2E86C1; font-family: 'PT Sans', serif; font-size: 25px;"&gt;&lt;span style="color:#000000; font-family: 'PT Sans', serif; font-size: 25px;"&gt;INPUT SOURCE - &lt;font style="font-size: 20px;"&gt;input info&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+			&lt;/ul&gt;&#13;
+		&lt;/div&gt;&#13;
+    &lt;/div&gt;&#13;
+&#13;
+    &lt;div id="column2" style="float:left; width:33%; text-align:center;"&gt;&#13;
+	&lt;font style="font-family: 'PT Sans', serif; font-weight: bold; color: #6c7373; font-size: 30px; "&gt;DISPLAY&lt;/font&gt;&#13;
+	&lt;hr style="border: 1px solid #CB4335;" width="75%" /&gt;&#13;
+		&lt;div id="column2CONTENT" style="float:left; width:100%; text-align:left; margin-left:10%;"&gt;&#13;
+				&lt;ul&gt;&#13;
+					&lt;li style="color:#CB4335; font-family: 'PT Sans', serif; font-size: 25px;"&gt;&lt;span style="color:#000000; font-family: 'PT Sans', serif; font-size: 25px;"&gt;DISPLAY DEVICE&lt;/span&gt;&lt;/li&gt;&#13;
+				&lt;/ul&gt;&#13;
+		&lt;/div&gt;&#13;
+    &lt;/div&gt;&#13;
+&#13;
+    &lt;div id="column3" style="float:left; width:33%; text-align:center;"&gt;&#13;
+    &lt;font style="font-family: 'PT Sans', serif; font-weight: bold; color: #6c7373; font-size: 30px; "&gt;MISCELLANEOUS&lt;/font&gt;&#13;
+	&lt;hr style="border: 1px solid #7D3C98;" width="75%" /&gt;&#13;
+		&lt;div id="column3CONTENT" style="float:left; width:100%; text-align:left; margin-left:10%;"&gt;&#13;
+				&lt;ul&gt;&#13;
+					&lt;li style="color:#7D3C98; font-family: 'PT Sans', serif; font-size: 25px;"&gt;&lt;span style="color:#000000; font-family: 'PT Sans', serif; font-size: 25px;"&gt;MISCELLANEOUS INFO&lt;/span&gt;&lt;/li&gt;&#13;
+				&lt;/ul&gt;&#13;
+		&lt;/div&gt;&#13;
+    &lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&#13;
+&lt;hr style="border: 2px solid #538135;" width="93%" /&gt;&#13;
+&#13;
+&#13;
+&lt;!--ROOM PHOTOGRAPHS--&gt;&#13;
+&lt;p style="font-family: 'PT Sans', serif; font-weight: bold; color: #c45911; font-size: 38px; padding: 0px 6% 0px 0px;" align="center"&gt;&lt;img style="padding: 0px 0px 0px 4%;" title="" src="Photographs.png" alt="" width="50" height="50" align="left" border="0" hspace="0" vspace="0" /&gt;Room Photographs&lt;/p&gt;&#13;
+&lt;p style="font-family: 'PT Sans', serif; font-size: 28px; margin-left:4%; margin-right:4%; text-align: justify;"&gt;&lt;!--CONTENT--&gt;&lt;/p&gt;&#13;
+&lt;table style="border:2px solid #c45911;" align="center"&gt;&#13;
+	&lt;tbody&gt;&#13;
+		&lt;tr&gt;&#13;
+			&lt;td style="text-align: center;"&gt;&#13;
+				* INSERT PHOTOGRPAH HERE *&#13;
+				&lt;!--&lt;a title="x" href="BG10_Room_View.jpg" target="_blank" rel="nofollow"&gt;&lt;img title="" src="BG10_Room_View.jpg" alt="" height="200" align="bottom" border="0" hspace="0" vspace="0" /&gt;&lt;/a&gt;--&gt;&#13;
+				&#13;
+			&lt;/td&gt;&#13;
+		&lt;/tr&gt;&#13;
+		&lt;tr&gt;&#13;
+			&lt;td style="text-align: center; font-family: 'PT Sans', serif; font-size: 20px; margin-left:4%; margin-right:4%;"&gt;&#13;
+			&lt;hr style="border: 1px solid #c45911;" width="90%" /&gt;&#13;
+			ROOM NAME/NUMBER - Room View&#13;
+			&lt;/td&gt;&#13;
+		&lt;/tr&gt;&#13;
+	&lt;/tbody&gt;&#13;
+&lt;/table&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&lt;hr style="border: 2px solid #c45911;" width="93%" /&gt;&#13;
+&#13;
+&#13;
+&lt;!--ROOM USER GUIDES--&gt;&#13;
+&lt;p style="font-family: 'PT Sans', serif; font-weight: bold; color: #2e74b5; font-size: 38px; padding: 0px 6% 0px 0px;" align="center"&gt;&lt;img style="padding: 0px 0px 0px 4%;" title="" src="Guides.png" alt="" width="50" height="50" align="left" border="0" hspace="0" vspace="0" /&gt;Room User Guides&lt;/p&gt;&#13;
+&lt;p style="font-family: 'PT Sans', serif; font-size: 28px; margin-left:4%; margin-right:4%; text-align: justify;"&gt;&lt;!--CONTENT--&gt;&lt;/p&gt;&#13;
+&lt;p align="center"&gt;&#13;
+	&lt;!--&lt;a href="https://bournemouth.service-now.com/sys_attachment.do?sysparm_referring_url=tear_off&amp;view=true&amp;sys_id=785a197cdb17324070f7d2b4ce961954"&gt;--&gt;&lt;img title="" src="Cheat_Sheet.png" alt="" border="" hspace="30" vspace="" /&gt;&lt;/a&gt; &#13;
+	&lt;!--&lt;a href="https://bournemouth.service-now.com/sys_attachment.do?sysparm_referring_url=tear_off&amp;view=true&amp;sys_id=29da2d70dbd7324070f7d2b4ce9619a2"&gt;&lt;img title="" src="Document_Camera.png" alt="" border="" hspace="30" vspace="" /&gt;&lt;/a&gt; --&gt;&#13;
+	&lt;a href="https://itservices.bournemouth.ac.uk/services/wireless-presentation.aspx"&gt;&lt;img title="" src="Wireless_Presentation.png" alt="" border="" hspace="30" vspace="" /&gt;&lt;/a&gt; &#13;
+	&lt;!--&lt;a href="https://www.youtube.com/watch?v=1qPfQt7By0Q&amp;t=5s&amp;index=2&amp;list=PLCAGWsnZKYKVQn6nQ0TkGRBnrYHfPwIFM"&gt;&lt;img title="" src="Video.png" alt="" border="" hspace="30" vspace="" /&gt;&lt;/a&gt;--&gt;&#13;
+&lt;/p&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&lt;hr style="border: 2px solid #2e74b5;" width="93%" /&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&lt;p&gt;&lt;/p&gt;&#13;
+&lt;/body&gt;&#13;
+&lt;/html&gt;^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>
